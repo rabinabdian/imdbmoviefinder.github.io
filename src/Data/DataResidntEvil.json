@@ -1,0 +1,72 @@
+[
+      {
+        "Title": "Resident Evil: Vendetta",
+        "Year": "2017",
+        "imdbID": "tt5776208",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0OTQ0ODY1N15BMl5BanBnXkFtZTgwNjkxNjI4MTI@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 4",
+        "Year": "2005",
+        "imdbID": "tt0397042",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NjY2MDM4Nl5BMl5BanBnXkFtZTgwMzk0MTU3MDE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 5",
+        "Year": "2009",
+        "imdbID": "tt0473298",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDMzNzMxMV5BMl5BanBnXkFtZTcwNDYxNTMxNg@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 2",
+        "Year": "1998",
+        "imdbID": "tt0161941",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyYzE2MmItMTFkOS00MTI3LWJmMzAtYTRjNGQ2ZmYzNzQ5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 6",
+        "Year": "2012",
+        "imdbID": "tt2193031",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGY5ZmE3ZmMtZGNjMS00NTFmLTg3NzYtNjdjN2ZjYTk0OWY2XkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 3: Nemesis",
+        "Year": "1999",
+        "imdbID": "tt0207701",
+        "Type": "game",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BZTM5NTQzMWQtNTI2MS00NzJjLWIyOGMtNjlhM2VjZjE2NDdiXkEyXkFqcGdeQXVyODI5Mzc1NjY@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 2",
+        "Year": "2019",
+        "imdbID": "tt7826034",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzYmEwN2YtN2Q1YS00OTA4LWExNzgtNDgxNWU4NGIxMDU3XkEyXkFqcGdeQXVyNjUxNDQwMzA@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil",
+        "Year": "1996",
+        "imdbID": "tt0190703",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTM2OTc0MDA0NV5BMl5BanBnXkFtZTgwMTE4NzAwMTE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil Code: Veronica X",
+        "Year": "2000",
+        "imdbID": "tt0217000",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTM0MjcyNF5BMl5BanBnXkFtZTcwMzc3MDE2MQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Resident Evil 7: Biohazard",
+        "Year": "2017",
+        "imdbID": "tt3569570",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNmZmZGM1NWYtYWUzNC00MWZmLTg2MTYtNDQzYmM3OWQxYmNlXkEyXkFqcGdeQXVyNDAzNzA0MzE@._V1_SX300.jpg"
+      }
+    ]

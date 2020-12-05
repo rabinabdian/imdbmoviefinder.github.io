@@ -1,0 +1,7 @@
+http://www.omdbapi.com/?apikey=88212abb&s=Batman&page=2
+http://www.omdbapi.com/?apikey=88212abb&i=tt0944947&Season=1
+
+http://www.omdbapi.com/?apikey=88212abb&t=Game%20of%20Thrones&Season=1
+
+Title"Guardians of the Galaxy Vol. 2"
+http://www.omdbapi.com/?i=tt3896198&apikey=88212abb
