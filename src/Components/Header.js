@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Rating from "@material-ui/lab/Rating";
+import Box from "@material-ui/core/Box";
 
 function Header() {
     return (
@@ -7,8 +9,9 @@ function Header() {
         <div className="header sticky-top">
 
             <nav className="navbar navbar-expand-lg navbar-light py-3 px-5 homenav">
-                <img src="/images/star-big.png" width="40" height="40"
-                    className="d-inline-block align-top mr-3" alt="" loading="lazy" />
+
+                                  <Rating name="customized-10" value={1} max={1} size="large"  readOnly />
+
                 <Link className="navbar-brand text-light" to="/">Movie Finder App</Link>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>

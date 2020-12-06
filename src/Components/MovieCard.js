@@ -1,7 +1,8 @@
 import React from 'react';
 
 import { Link } from 'react-router-dom';
-
+import Rating from "@material-ui/lab/Rating";
+import Box from "@material-ui/core/Box";
 
 function MovieCard(props) {
 
@@ -20,7 +21,13 @@ function MovieCard(props) {
                     <div className="flip-card-front">
                         <img src={`http://image.tmdb.org/t/p/w600_and_h900_bestv2${props.poster_path}`} alt={props.title} className="posterImg" />
                         <div className='mTop' style={{ right: '5px' }}>
-                            <img className='starImg' src='/images/star.png' />{props.vote_average}
+                            {/* <img className='starImg' src='../../images/star.png' /> */}
+                                        <Rating
+              name="customized-10"
+              value={1}
+              max={1}
+              readOnly
+            />{props.vote_average}
                         </div>
                         <div className='mTop' style={{ left: '5px' }}>
                             {movieYear}
